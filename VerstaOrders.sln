@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "verstaorders.client", "verstaorders.client\verstaorders.client.esproj", "{CA9FAF0A-7AB6-34C5-F12A-D2DA89623501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerstaOrders.Server", "VerstaOrders.Server\VerstaOrders.Server.csproj", "{CF0FCE9E-369D-47C4-95CF-EA7C8F44D1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9FAF0A-7AB6-34C5-F12A-D2DA89623501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9FAF0A-7AB6-34C5-F12A-D2DA89623501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9FAF0A-7AB6-34C5-F12A-D2DA89623501}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA9FAF0A-7AB6-34C5-F12A-D2DA89623501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9FAF0A-7AB6-34C5-F12A-D2DA89623501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9FAF0A-7AB6-34C5-F12A-D2DA89623501}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CF0FCE9E-369D-47C4-95CF-EA7C8F44D1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0FCE9E-369D-47C4-95CF-EA7C8F44D1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0FCE9E-369D-47C4-95CF-EA7C8F44D1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0FCE9E-369D-47C4-95CF-EA7C8F44D1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF3ED0A-EB48-4AC5-A543-7CAE506E785C}
+	EndGlobalSection
+EndGlobal
